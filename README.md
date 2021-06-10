@@ -22,3 +22,11 @@ Circuit Diagram :
 
 
 In depth about the project is mentioned in the .ppt file
+
+External view :
+
+![image](https://user-images.githubusercontent.com/59911272/121473487-61775580-c9e0-11eb-8bb4-f9180c5bfbb2.png)
+
+
+https://user-images.githubusercontent.com/59911272/121473632-9aafc580-c9e0-11eb-9055-303caa4cc3cc.mp4
+
