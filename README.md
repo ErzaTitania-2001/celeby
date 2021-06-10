@@ -18,7 +18,7 @@ Components needed :
 
 Circuit Diagram : 
 
-![image](https://user-images.githubusercontent.com/59911272/117240082-af32f800-ae4d-11eb-811a-261893ac28aa.png)
+![CIRCUIT DIAGRAM OF HACKATHON12312313](https://user-images.githubusercontent.com/59911272/121473983-0d20a580-c9e1-11eb-89b4-e3a6c3b186e4.png)
 
 
 In depth about the project is mentioned in the .ppt file
